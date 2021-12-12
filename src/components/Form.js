@@ -39,12 +39,13 @@ const Form = ({ setData, setDataConvert, setDataConvertLexico }) => {
     <>
       <Box display="flex" justifyContent="center" alignItems="center">
         <div>
-          <h1 style={{ textTransform: 'uppercase' }}>pequeño Compilador</h1>
+          <h1 style={{ textTransform: 'uppercase' }}>Compilador</h1>
           <div className={classes.container}>
-            <span className={classes.title}>Autor:</span>
+            <span className={classes.title}>Autores:</span>
             <span className={classes.text}>
-              Jose Enmanuel Estrella 2-16-0823
+              Jose Enmanuel Estrella 2-16-0823  y  
             </span>
+            <span className={classes.text}>Robert Alvarez 2-16-0738</span>
           </div>
           <div className={classes.container}>
             <span className={classes.title}>Lenguaje:</span>

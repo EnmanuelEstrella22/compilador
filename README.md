@@ -1,11 +1,12 @@
-# Pequeño Compilador
+# Compilador
 
-Desarrollado en javaScript con el objetivo de poner estas parte en 1:
+Desarrollado en javaScript con el objetivo de crear un compilador que abarque:
 
 - Analizador Léxico.
 - Analizador Sintáctico.
 - Analizador Semántico.
 - Generador de Código Intermedio.
+- Manejo de errores.
 
 ## Setup
 
