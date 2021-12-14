@@ -45,5 +45,4 @@ const ConsolaCodigoIntermedio = ({ codigo }) => {
     </>
   );
 };
-
 export default ConsolaCodigoIntermedio;
